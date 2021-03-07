@@ -8,8 +8,9 @@ The scripts are written in Python and use Odoo External API, which is describe i
 
 https://www.odoo.com/documentation/14.0/webservices/odoo.html
 
-Isaac Benitez (ibe)
+~  
+Isaac Benitez (ibe)  
 Customer Success Manager
 
-Odoo Inc.
+Odoo Inc.  
 San Francisco, CA
